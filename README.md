@@ -4,5 +4,6 @@ Ramas:
 
 TareaA:
   miembros: Francisco, Fabian - responsable: Francisco
-TareaB
+  
+TareaB:
   miembros, Fabian, Francisco - responsable: Fabian
