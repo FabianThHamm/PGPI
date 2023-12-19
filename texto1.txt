@@ -1,2 +1,2 @@
 Lorem ipsum
-cambio CONFLICTO
+cambio 10 resolución
