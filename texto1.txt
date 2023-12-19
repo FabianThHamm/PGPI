@@ -1,2 +1,2 @@
 Lorem ipsum
-cambio 8
+cambio CONFLICTO
